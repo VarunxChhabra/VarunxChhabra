@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunxchhabra&label=Profile%20views&color=0e75b6&style=flat" alt="varunxchhabra" /> </p>
 
-- 🔭 I’m currently looking to work on **with database management by using oracle**
+- 🔭 I’m currently looking to work on **More Projects with Python**
 
 - 🌱 I’m currently pursuing **Computer Programming Diploma from Seneca College**
 
